@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container-fluid {
+    flex: 1;
+}
+.header{
+    background-color:deepskyblue;
+    font-family: fantasy;
+    color: white;
+}
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #f8f9fa;
+}
+.card{
+    background-color: deepskyblue;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.card :hover{
+    background-color: white;
+    color: deepskyblue;
+}

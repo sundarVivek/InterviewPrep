@@ -1,0 +1,16 @@
+.header{
+    background-color: deepskyblue;
+    color: white;
+}
+.card{
+    background-color: deepskyblue;
+    color: white;
+}
+.card-title{
+    font-size: smaller;
+}
+.card-text{
+    background-color: white;
+    color: black;
+    font-size: smaller;
+}

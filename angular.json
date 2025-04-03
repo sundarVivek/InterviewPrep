@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is Angular?",
+        "answer": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript."
+    },
+    {
+        "question": "What are Angular components?",
+        "answer": "Components are the building blocks of an Angular application. They control a patch of screen called a view."
+    }
+]
